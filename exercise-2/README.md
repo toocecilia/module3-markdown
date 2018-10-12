@@ -6,7 +6,7 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 ---
 
 | **Course Number** | _Course Title_ | Instructor |
-| --- | --- |
+| --- | --- | --- |
 | **PHIL 440** | _Ethics_ | Jean Roberts
 | **POL S 442** | _Govt & Politics of China_ | Susan Whiting
 | **RELIG 220** | _Intro to New Testament_ | Michael A. Williams
